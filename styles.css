@@ -1,0 +1,22 @@
+body{
+    background-image: url(Images/bg_img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(253, 253, 32);
+
+}
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+
+table{
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 2.5%;
+}
+
+td, th{
+    text-align: left;
+}
