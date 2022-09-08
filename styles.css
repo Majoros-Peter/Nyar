@@ -1,9 +1,8 @@
 body{
-    background-image: url(Images/bg_img.jpg);
+    background-image: url(https://www.termalfurdo.hu/images/cikk/233/termalfurdo_nyar_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: rgb(253, 253, 32);
-
+    color: black;
 }
 h1{
     font-weight: bolder;
@@ -12,11 +11,17 @@ h1{
 }
 
 table{
-    width: 50%;
+    width: 85%;
     margin-top: 15%;
     margin-left: 2.5%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 td, th{
     text-align: left;
+}
+
+#kutya{
+  width: 400px;
 }
